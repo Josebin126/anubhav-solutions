@@ -1,0 +1,178 @@
+<svg width="260" height="360" viewBox="0 0 260 360" xmlns="http://www.w3.org/2000/svg">
+
+  <g id="character">
+
+    <!-- Hair -->
+    <path
+      d="M70 105
+         C62 55 90 20 130 20
+         C174 20 201 55 190 105
+         C177 82 160 72 130 72
+         C101 72 83 83 70 105Z"
+      fill="#5A3152"
+    />
+
+    <!-- Face -->
+    <ellipse
+      cx="130"
+      cy="108"
+      rx="54"
+      ry="61"
+      fill="#FFF8F0"
+      stroke="#35152F"
+      stroke-width="7"
+    />
+
+    <!-- Hair fringe -->
+    <path
+      d="M78 88 Q105 48 135 65 Q158 48 184 88"
+      fill="none"
+      stroke="#5A3152"
+      stroke-width="18"
+      stroke-linecap="round"
+    />
+
+    <!-- Eyes -->
+    <ellipse
+      cx="108"
+      cy="108"
+      rx="5"
+      ry="8"
+      fill="#35152F"
+    />
+
+    <ellipse
+      cx="152"
+      cy="108"
+      rx="5"
+      ry="8"
+      fill="#35152F"
+    />
+
+    <!-- Smile -->
+    <path
+      d="M114 130 Q130 140 146 130"
+      fill="none"
+      stroke="#35152F"
+      stroke-width="5"
+      stroke-linecap="round"
+    />
+
+    <!-- Neck -->
+    <rect
+      x="117"
+      y="158"
+      width="26"
+      height="25"
+      rx="10"
+      fill="#FFF8F0"
+      stroke="#35152F"
+      stroke-width="6"
+    />
+
+    <!-- Shirt -->
+    <path
+      d="M82 181
+         Q130 160 178 181
+         L192 286
+         Q130 307 68 286
+         Z"
+      fill="#E8A56B"
+      stroke="#35152F"
+      stroke-width="7"
+    />
+
+    <!-- Small logo -->
+    <circle
+      cx="130"
+      cy="225"
+      r="22"
+      fill="#FFF8F0"
+      stroke="#35152F"
+      stroke-width="4"
+    />
+
+    <text
+      x="130"
+      y="239"
+      text-anchor="middle"
+      font-family="Arial, sans-serif"
+      font-size="30"
+      font-weight="700"
+      fill="#35152F"
+    >
+      A
+    </text>
+
+    <!-- Left arm -->
+    <path
+      d="M78 195 Q48 225 45 260"
+      fill="none"
+      stroke="#35152F"
+      stroke-width="18"
+      stroke-linecap="round"
+    />
+
+    <!-- Right arm -->
+    <path
+      d="M182 195 Q212 225 215 260"
+      fill="none"
+      stroke="#35152F"
+      stroke-width="18"
+      stroke-linecap="round"
+    />
+
+    <!-- Hands -->
+    <circle
+      cx="45"
+      cy="260"
+      r="11"
+      fill="#FFF8F0"
+      stroke="#35152F"
+      stroke-width="5"
+    />
+
+    <circle
+      cx="215"
+      cy="260"
+      r="11"
+      fill="#FFF8F0"
+      stroke="#35152F"
+      stroke-width="5"
+    />
+
+    <!-- Legs -->
+    <path
+      d="M105 285 L100 340"
+      stroke="#35152F"
+      stroke-width="18"
+      stroke-linecap="round"
+    />
+
+    <path
+      d="M155 285 L160 340"
+      stroke="#35152F"
+      stroke-width="18"
+      stroke-linecap="round"
+    />
+
+    <!-- Shoes -->
+    <ellipse
+      cx="95"
+      cy="343"
+      rx="28"
+      ry="10"
+      fill="#35152F"
+    />
+
+    <ellipse
+      cx="165"
+      cy="343"
+      rx="28"
+      ry="10"
+      fill="#35152F"
+    />
+
+  </g>
+
+</svg>

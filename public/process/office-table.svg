@@ -1,0 +1,165 @@
+<svg width="900" height="420" viewBox="0 0 900 420" xmlns="http://www.w3.org/2000/svg">
+
+  <!-- Table top -->
+  <rect
+    x="100"
+    y="150"
+    width="700"
+    height="70"
+    rx="20"
+    fill="#FFF8F0"
+    stroke="#35152F"
+    stroke-width="8"
+  />
+
+  <!-- Table front -->
+  <path
+    d="M130 220
+       L770 220
+       L720 330
+       L180 330
+       Z"
+    fill="#5A3152"
+    stroke="#35152F"
+    stroke-width="8"
+  />
+
+  <!-- Left leg -->
+  <path
+    d="M190 325 L165 410"
+    stroke="#35152F"
+    stroke-width="22"
+    stroke-linecap="round"
+  />
+
+  <!-- Right leg -->
+  <path
+    d="M710 325 L735 410"
+    stroke="#35152F"
+    stroke-width="22"
+    stroke-linecap="round"
+  />
+
+  <!-- Laptop 1 -->
+  <g id="laptop-left">
+
+    <rect
+      x="165"
+      y="105"
+      width="150"
+      height="85"
+      rx="8"
+      fill="#35152F"
+    />
+
+    <rect
+      x="177"
+      y="117"
+      width="126"
+      height="60"
+      rx="4"
+      fill="#F7EBDD"
+    />
+
+    <path
+      d="M145 195 L335 195 L315 210 L165 210 Z"
+      fill="#35152F"
+    />
+
+  </g>
+
+  <!-- Laptop 2 -->
+  <g id="laptop-center">
+
+    <rect
+      x="375"
+      y="100"
+      width="150"
+      height="90"
+      rx="8"
+      fill="#35152F"
+    />
+
+    <rect
+      x="387"
+      y="112"
+      width="126"
+      height="66"
+      rx="4"
+      fill="#F7EBDD"
+    />
+
+    <path
+      d="M355 195 L545 195 L525 210 L375 210 Z"
+      fill="#35152F"
+    />
+
+  </g>
+
+  <!-- Laptop 3 -->
+  <g id="laptop-right">
+
+    <rect
+      x="585"
+      y="105"
+      width="150"
+      height="85"
+      rx="8"
+      fill="#35152F"
+    />
+
+    <rect
+      x="597"
+      y="117"
+      width="126"
+      height="60"
+      rx="4"
+      fill="#F7EBDD"
+    />
+
+    <path
+      d="M565 195 L755 195 L735 210 L585 210 Z"
+      fill="#35152F"
+    />
+
+  </g>
+
+  <!-- Drink -->
+  <g id="drink">
+
+    <path
+      d="M285 125 L315 125 L311 165 Q300 175 289 165 Z"
+      fill="#E8A56B"
+      stroke="#35152F"
+      stroke-width="5"
+    />
+
+    <path
+      d="M300 125 L300 105"
+      stroke="#35152F"
+      stroke-width="5"
+      stroke-linecap="round"
+    />
+
+  </g>
+
+  <!-- Snack plate -->
+  <g id="snack">
+
+    <ellipse
+      cx="600"
+      cy="245"
+      rx="55"
+      ry="18"
+      fill="#FFF8F0"
+      stroke="#35152F"
+      stroke-width="5"
+    />
+
+    <circle cx="575" cy="238" r="10" fill="#E8A56B"/>
+    <circle cx="600" cy="242" r="10" fill="#B995B8"/>
+    <circle cx="625" cy="238" r="10" fill="#E8A56B"/>
+
+  </g>
+
+</svg>

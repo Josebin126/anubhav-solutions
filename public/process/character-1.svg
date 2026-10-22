@@ -1,0 +1,161 @@
+<svg width="260" height="360" viewBox="0 0 260 360" xmlns="http://www.w3.org/2000/svg">
+
+  <!-- Character body -->
+  <g id="character">
+
+    <!-- Hair -->
+    <path
+      d="M72 92
+         C68 48 92 25 130 25
+         C170 25 194 51 188 94
+         C175 75 158 68 130 68
+         C103 68 84 77 72 92Z"
+      fill="#35152F"
+    />
+
+    <!-- Face -->
+    <ellipse
+      cx="130"
+      cy="105"
+      rx="55"
+      ry="62"
+      fill="#FFF8F0"
+      stroke="#35152F"
+      stroke-width="7"
+    />
+
+    <!-- Eyes -->
+    <ellipse
+      cx="108"
+      cy="103"
+      rx="5"
+      ry="8"
+      fill="#35152F"
+    />
+
+    <ellipse
+      cx="152"
+      cy="103"
+      rx="5"
+      ry="8"
+      fill="#35152F"
+    />
+
+    <!-- Smile -->
+    <path
+      d="M113 125 Q130 140 147 125"
+      fill="none"
+      stroke="#35152F"
+      stroke-width="5"
+      stroke-linecap="round"
+    />
+
+    <!-- Neck -->
+    <rect
+      x="117"
+      y="158"
+      width="26"
+      height="25"
+      rx="10"
+      fill="#FFF8F0"
+      stroke="#35152F"
+      stroke-width="6"
+    />
+
+    <!-- Body -->
+    <path
+      d="M82 180
+         Q130 160 178 180
+         L195 285
+         Q130 310 65 285
+         Z"
+      fill="#5A3152"
+      stroke="#35152F"
+      stroke-width="7"
+    />
+
+    <!-- Anubhav A mark -->
+    <text
+      x="130"
+      y="240"
+      text-anchor="middle"
+      font-family="Arial, sans-serif"
+      font-size="42"
+      font-weight="700"
+      fill="#FFF8F0"
+    >
+      A
+    </text>
+
+    <!-- Left arm -->
+    <path
+      d="M78 195 Q48 220 42 260"
+      fill="none"
+      stroke="#35152F"
+      stroke-width="18"
+      stroke-linecap="round"
+    />
+
+    <!-- Right arm -->
+    <path
+      d="M182 195 Q212 220 218 260"
+      fill="none"
+      stroke="#35152F"
+      stroke-width="18"
+      stroke-linecap="round"
+    />
+
+    <!-- Hands -->
+    <circle
+      cx="42"
+      cy="260"
+      r="11"
+      fill="#FFF8F0"
+      stroke="#35152F"
+      stroke-width="5"
+    />
+
+    <circle
+      cx="218"
+      cy="260"
+      r="11"
+      fill="#FFF8F0"
+      stroke="#35152F"
+      stroke-width="5"
+    />
+
+    <!-- Legs -->
+    <path
+      d="M105 285 L100 340"
+      stroke="#35152F"
+      stroke-width="18"
+      stroke-linecap="round"
+    />
+
+    <path
+      d="M155 285 L160 340"
+      stroke="#35152F"
+      stroke-width="18"
+      stroke-linecap="round"
+    />
+
+    <!-- Shoes -->
+    <ellipse
+      cx="95"
+      cy="343"
+      rx="28"
+      ry="10"
+      fill="#35152F"
+    />
+
+    <ellipse
+      cx="165"
+      cy="343"
+      rx="28"
+      ry="10"
+      fill="#35152F"
+    />
+
+  </g>
+
+</svg>

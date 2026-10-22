@@ -1,0 +1,82 @@
+<svg width="220" height="150" viewBox="0 0 220 150" xmlns="http://www.w3.org/2000/svg">
+
+  <rect
+    x="5"
+    y="5"
+    width="210"
+    height="140"
+    rx="12"
+    fill="#35152F"
+  />
+
+  <rect
+    x="18"
+    y="18"
+    width="184"
+    height="114"
+    rx="7"
+    fill="#F7EBDD"
+  />
+
+  <!-- UI header -->
+  <rect
+    x="32"
+    y="32"
+    width="70"
+    height="8"
+    rx="4"
+    fill="#35152F"
+  />
+
+  <circle
+    cx="178"
+    cy="36"
+    r="6"
+    fill="#E8A56B"
+  />
+
+  <!-- UI cards -->
+  <rect
+    x="32"
+    y="58"
+    width="45"
+    height="35"
+    rx="5"
+    fill="#5A3152"
+  />
+
+  <rect
+    x="87"
+    y="58"
+    width="45"
+    height="35"
+    rx="5"
+    fill="#B995B8"
+  />
+
+  <rect
+    x="142"
+    y="58"
+    width="45"
+    height="35"
+    rx="5"
+    fill="#E8A56B"
+  />
+
+  <!-- Graph -->
+  <path
+    d="M35 113 L60 101 L85 108 L110 91 L135 98 L160 80 L187 88"
+    fill="none"
+    stroke="#35152F"
+    stroke-width="5"
+    stroke-linecap="round"
+    stroke-linejoin="round"
+  />
+
+  <!-- Laptop base -->
+  <path
+    d="M0 145 L220 145 L205 150 L15 150 Z"
+    fill="#35152F"
+  />
+
+</svg>
