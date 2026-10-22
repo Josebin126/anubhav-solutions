@@ -16325,3 +16325,348 @@ html.cinematic-intro-active .custom-cursor {
     transition: none !important;
   }
 }
+/* ================================
+   ANUBHAV SOLUTIONS — DARK MODE
+   ================================ */
+
+html.dark body {
+  background: #241522;
+  color: #fff8f0;
+}
+
+/* Main sections */
+html.dark .anb-hero,
+html.dark .anb-services,
+html.dark .anb-work,
+html.dark .anb-process,
+html.dark .anb-about,
+html.dark .anb-contact {
+  background: #241522 !important;
+  color: #fff8f0 !important;
+}
+
+/* Light cards / surfaces */
+html.dark .anb-services-card,
+html.dark .anb-work-card,
+html.dark .anb-contact-form,
+html.dark .anb-process-card {
+  background: #35152f !important;
+  color: #fff8f0 !important;
+}
+
+/* Common text */
+html.dark .anb-hero p,
+html.dark .anb-services p,
+html.dark .anb-work p,
+html.dark .anb-process p,
+html.dark .anb-about p,
+html.dark .anb-contact p {
+  color: #d8c8d5 !important;
+}
+
+/* Navbar */
+html.dark .navbar {
+  background: rgba(36, 21, 34, 0.88) !important;
+  color: #fff8f0 !important;
+}
+
+html.dark .nav-links a,
+html.dark .logo {
+  color: #fff8f0 !important;
+}
+
+/* Footer stays dark */
+html.dark footer {
+  background: #180f17 !important;
+  color: #fff8f0 !important;
+}
+/* =========================
+   DARK MODE
+   ========================= */
+
+html.dark {
+  --cream: #1b1119;
+  --cream-light: #241622;
+  --plum: #f4dff0;
+  --plum-soft: #d9b9d2;
+  --text: #fff7fc;
+  --muted: #cbb8c6;
+}
+
+html.dark body {
+  background: #1b1119;
+  color: #fff7fc;
+}
+
+/* Main light sections */
+html.dark .anb-hero,
+html.dark .services-section,
+html.dark .work-section,
+html.dark .contact-section {
+  background: #1b1119 !important;
+  color: #fff7fc !important;
+}
+
+/* Cards / panels */
+html.dark .service-row,
+html.dark .work-card,
+html.dark .contact-form,
+html.dark .about-card {
+  background: #241622 !important;
+  color: #fff7fc !important;
+}
+
+/* Text */
+html.dark h1,
+html.dark h2,
+html.dark h3,
+html.dark p,
+html.dark span,
+html.dark a {
+  color: inherit;
+}
+
+/* Navbar */
+html.dark .navbar {
+  background: rgba(27, 17, 25, 0.88) !important;
+  border-color: rgba(255, 255, 255, 0.12) !important;
+}
+
+html.dark .nav-links a {
+  color: #fff7fc !important;
+}
+
+html.dark .logo {
+  background: #f7ebdd;
+}
+
+/* Buttons */
+html.dark .nav-cta,
+html.dark .anb-hero-primary {
+  background: #f4dff0 !important;
+  color: #35152f !important;
+}
+
+html.dark .anb-hero-secondary {
+  border-color: #d9b9d2 !important;
+  color: #fff7fc !important;
+}
+
+/* Form fields */
+html.dark input,
+html.dark textarea {
+  background: #241622 !important;
+  color: #fff7fc !important;
+  border-color: rgba(255, 255, 255, 0.18) !important;
+}
+
+html.dark input::placeholder,
+html.dark textarea::placeholder {
+  color: #aa96a5 !important;
+}
+
+/* Footer stays dark */
+html.dark footer {
+  background: #120b11 !important;
+}
+/* ================================
+   ANUBHAV DARK MODE
+   ================================ */
+
+html.dark {
+  --cream: #1b1119;
+  --cream-light: #241722;
+  --plum: #f4d9ee;
+  --plum-soft: #d5b5cf;
+  --text: #fff7fc;
+  --muted: #cbb8c7;
+}
+
+html.dark body {
+  background: #1b1119 !important;
+  color: #fff7fc !important;
+}
+
+/* Navbar */
+html.dark .navbar {
+  background: rgba(27, 17, 25, 0.92) !important;
+  border-color: rgba(255, 255, 255, 0.12) !important;
+}
+
+html.dark .nav-links a {
+  color: #fff7fc !important;
+}
+
+/* Hero */
+html.dark .anb-hero {
+  background: #1b1119 !important;
+  color: #fff7fc !important;
+}
+
+/* Light sections */
+html.dark #services,
+html.dark #work,
+html.dark #contact {
+  background: #1b1119 !important;
+  color: #fff7fc !important;
+}
+
+/* Section text */
+html.dark #services *,
+html.dark #work *,
+html.dark #contact * {
+  color: inherit;
+}
+
+/* Inputs */
+html.dark input,
+html.dark textarea {
+  background: #241722 !important;
+  color: #fff7fc !important;
+  border-color: rgba(255,255,255,.2) !important;
+}
+
+html.dark input::placeholder,
+html.dark textarea::placeholder {
+  color: #aa96a6 !important;
+}
+
+/* Buttons */
+html.dark .nav-cta {
+  background: #f4d9ee !important;
+  color: #35152f !important;
+}
+
+/* Footer */
+html.dark footer {
+  background: #100a0f !important;
+}
+/* =========================
+   DARK MODE
+   ========================= */
+
+html.dark {
+  --cream: #160d17;
+  --cream-light: #241522;
+  --plum: #f4d7e8;
+  --plum-soft: #d5a9c8;
+  --text: #fff5fb;
+  --muted: #c9b4c3;
+}
+
+html.dark body {
+  background: #160d17;
+  color: #fff5fb;
+}
+
+/* Navbar */
+html.dark .navbar {
+  background: rgba(22, 13, 23, 0.88);
+  border-color: rgba(255, 255, 255, 0.12);
+}
+
+html.dark .nav-links a {
+  color: #fff5fb;
+}
+
+html.dark .nav-links a.active {
+  color: #f4d7e8;
+}
+
+html.dark .nav-cta {
+  background: #f4d7e8;
+  color: #241522;
+}
+
+/* Hero */
+html.dark .anb-hero {
+  background: #160d17;
+  color: #fff5fb;
+}
+
+html.dark .anb-hero h1 {
+  color: #fff5fb;
+}
+
+html.dark .anb-hero p {
+  color: #c9b4c3;
+}
+
+/* General sections */
+html.dark section {
+  color: #fff5fb;
+}
+
+/* Buttons */
+html.dark button {
+  color: #fff5fb;
+}
+
+/* Theme icon */
+html.dark .theme-toggle {
+  color: #fff5fb;
+}
+/* =========================
+   DARK MODE
+   ========================= */
+
+html.dark body {
+  background: #160b15 !important;
+  color: #fff8f0 !important;
+}
+
+/* Navbar */
+html.dark .navbar {
+  background: rgba(22, 11, 21, 0.88) !important;
+  border-color: rgba(255, 248, 240, 0.15) !important;
+}
+
+html.dark .navbar a {
+  color: #fff8f0 !important;
+}
+
+/* Main cream sections */
+html.dark .anb-hero,
+html.dark .anb-services,
+html.dark .anb-work,
+html.dark .anb-process,
+html.dark .anb-about,
+html.dark .anb-contact {
+  background: #160b15 !important;
+  color: #fff8f0 !important;
+}
+
+/* Hero */
+html.dark .anb-hero-title,
+html.dark .anb-hero-description,
+html.dark .anb-hero-meta,
+html.dark .anb-hero-label {
+  color: #fff8f0 !important;
+}
+
+/* Services / Work / Process / About / Contact text */
+html.dark .anb-services *,
+html.dark .anb-work *,
+html.dark .anb-process *,
+html.dark .anb-about *,
+html.dark .anb-contact * {
+  color: #fff8f0;
+}
+
+/* Keep buttons readable */
+html.dark .anb-hero-button,
+html.dark .anb-contact-button,
+html.dark .nav-cta {
+  background: #fff8f0 !important;
+  color: #35152f !important;
+}
+
+/* Footer stays dark */
+html.dark .footer {
+  background: #0d070d !important;
+}
+
+/* Theme icon */
+html.dark .theme-toggle {
+  color: #fff8f0 !important;
+}
