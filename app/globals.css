@@ -1,5 +1,33 @@
 
 @import "tailwindcss";
+:root {
+  --cream: #f7ebdd;
+  --cream-light: #fff8f0;
+  --plum: #35152f;
+  --plum-soft: #5a3152;
+  --text: #241522;
+  --muted: #765f70;
+
+  --page-bg: #f7ebdd;
+  --page-text: #241522;
+}
+
+html.dark {
+  --cream: #241522;
+  --cream-light: #35152f;
+  --plum: #f7ebdd;
+  --plum-soft: #d9b8d0;
+  --text: #fff8f0;
+  --muted: #cbb8c7;
+
+  --page-bg: #241522;
+  --page-text: #fff8f0;
+}
+
+body {
+  background: var(--page-bg);
+  color: var(--page-text);
+}
 
 :root {
   --cream: #f7ebdd;
